@@ -98,3 +98,5 @@ from .detector import (
     RgbdDetectorFactory,
 )
 from .camera_intrinsics import CameraIntrinsics
+
+from .object_render import RenderMode, ObjectRender
